@@ -1,0 +1,11 @@
+export const CONNECTION_LIMIT: string = 'CONNECTION_LIMIT';
+export const SAME_USERNAME = 'SAME_USERNAME';
+export const SET_SHIP_POSITION: string = 'SET_SHIP_POSITION';
+export const ATTACK: string = 'ATTACK';
+export const NOTIFICATION: string = 'NOTIFICATION';
+export const ERROR: string = 'error';
+export const SUCCESS: string = 'success';
+export const INFO: string = 'info';
+export const WARNING: string = 'warning';
+export const GRID_SIZE: number = 11;
+export const CONNECTION_SUCCESS = 'CONNECTION_SUCCESS';
