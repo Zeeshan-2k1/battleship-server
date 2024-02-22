@@ -1,5 +1,5 @@
 import { GRID_SIZE } from '../constants';
-import { IShipCoordinates } from '../interfaces/ShipPosition';
+import { IShipCoordinates } from '../interfaces/Entity';
 
 export const checkShipPosition = (indices: IShipCoordinates[]): boolean => {
   let result = true;
